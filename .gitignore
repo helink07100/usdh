@@ -1,0 +1,40 @@
+# Node.js dependencies
+/node_modules
+
+# Build output directories
+/dist
+/build
+/.next
+/.nuxt
+/out
+/public
+
+# Dependency directories
+/bower_components
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Env files (store your environment variables securely)
+.env
+.env.local
+.env.*.local
+
+# TypeScript build output
+/lib/
+*.tsbuildinfo
+
+# Next.js bu
